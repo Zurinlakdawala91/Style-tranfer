@@ -44,10 +44,10 @@ Apply Style Transfer: Once both images are uploaded, the user clicks the "✨ Ap
 
 View Result: The transformed image is displayed for the user to view.
 
-
-https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192616.png
-
+![Alt text](https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192616.png)
 
 
-https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192721.png
 
+
+
+![Alt text](https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192721.png)
