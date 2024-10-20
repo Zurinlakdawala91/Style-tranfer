@@ -45,10 +45,9 @@ Apply Style Transfer: Once both images are uploaded, the user clicks the "✨ Ap
 View Result: The transformed image is displayed for the user to view.
 
 
-![image](https://github.com/user-attachments/assets/9c0834cf-bd48-4180-a3c8-c98126e87323)
+https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192616.png
 
 
 
-
-![image](https://github.com/user-attachments/assets/d010d409-d1c1-4904-bc7c-5fb1ed2405f7)
+https://github.com/Zurinlakdawala91/Style-tranfer/blob/main/Screenshot%202024-10-20%20192721.png
 
