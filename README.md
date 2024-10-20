@@ -37,5 +37,9 @@ Content Image: The image to which the style will be applied.
 
 
 Style Image: The image that serves as the source of the artistic style.
+
+
 Apply Style Transfer: Once both images are uploaded, the user clicks the "✨ Apply Style Transfer" button to transform the content image using the selected style.
+
+
 View Result: The transformed image is displayed for the user to view.
